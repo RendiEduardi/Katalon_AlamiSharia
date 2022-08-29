@@ -33,7 +33,7 @@ WebUI.delay(3)
 
 WebUI.setText(findTestObject('Daftar/InputName'), 'Rendi Eduardi')
 
-WebUI.setText(findTestObject('Daftar/Email'), 'rendy.eduardi@gmail.com')
+WebUI.setText(findTestObject('Daftar/Email'), 'rendy.ardy51@gmail.com')
 
 WebUI.setText(findTestObject('Daftar/Phone'), '08973211139')
 
